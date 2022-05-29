@@ -1,0 +1,5 @@
+name: KotlinExamplePlugin
+version: '${version}'
+main: so.ayo.onlyafter.example.KotlinExamplePlugin
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.7.0-RC
